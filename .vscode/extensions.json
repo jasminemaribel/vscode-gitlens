@@ -1,5 +1,18 @@
 {
 	// See http://go.microsoft.com/fwlink/?LinkId=827846
 	// for the documentation about the extensions.json format
-	"recommendations": ["dbaeumer.vscode-eslint", "eamodio.tsl-problem-matcher", "esbenp.prettier-vscode"]
+	"recommendations": [
+		"dbaeumer.vscode-eslint",
+		"eamodio.tsl-problem-matcher",
+		"esbenp.prettier-vscode",
+		"pranayagarwal.vscode-hack",
+		"silofy.hackthebox",
+		"tiaanduplessis.vs-code-js-hacker-pack",
+		"smartie.hacknet-vscode",
+		"abusaidm.html-snippets",
+		"a-hjerpe.hacky-es6-template-strings",
+		"jitendrajat10099.hack-the-solution",
+		"stormwarning.json-template",
+		"kisstkondoros.vscode-codemetrics"
+	]
 }
